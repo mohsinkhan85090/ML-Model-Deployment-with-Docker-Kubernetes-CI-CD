@@ -74,7 +74,7 @@ Port-forward service to access locally:-
 
 kubectl port-forward service/ml-service 5000:5000
 ```
-## 🚀 CI/CD Pipeline (GitHub Actions)
+##  CI/CD Pipeline (GitHub Actions)
 
 The repository includes automated CI/CD workflows that:
 
@@ -85,7 +85,7 @@ The repository includes automated CI/CD workflows that:
 - Push Docker image to Docker Hub  
 - Update Kubernetes deployment automatically with the new image  
 
-### ⚙️ Example Workflow Steps
+###  Example Workflow Steps
 
 - Checkout code  
 - Setup Python 3.9  
