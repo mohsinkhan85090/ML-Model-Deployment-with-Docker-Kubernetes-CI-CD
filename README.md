@@ -27,7 +27,7 @@ This project is ideal for showcasing full-stack DevOps + ML skills in real-world
 - **Libraries/Dependencies:** pandas, scikit-learn, flask  
 
 ---
-
+```plaintext
 ML-Deployment-CI-CD/
 ├── app.py # Flask app
 ├── model.py # ML model logic
@@ -38,7 +38,8 @@ ML-Deployment-CI-CD/
 │   └── service.yaml # Kubernetes service definition
 └── .github/
     └── workflows/
-        └── ci-cd.yaml # GitHub Actions workflow
+      └── ci-cd.yaml # GitHub Actions workflow
+```
 
 ---
 
